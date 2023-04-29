@@ -12,10 +12,14 @@ The workspace contains two folders by default, where:
 ## como usar
 - impotar a Classe 'Criptrografia'
 - criar a instacia do objeto
--Criptografar(){
+-Criptografar()<br>{
+    <br>
     String senha = 'instancia'.getCript();
+    <br>
 }
--Descriptrografar(String hash){
+-Descriptrografar(String hash)<br>{
+    <br>
     String senhaDescriptografada = 'instancia'.getDescript();
+    <br>
 }
 
