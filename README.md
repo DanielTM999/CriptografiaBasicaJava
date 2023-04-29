@@ -15,11 +15,10 @@ The workspace contains two folders by default, where:
 -Criptografar()<br>{
     <br>
     String senha = 'instancia'.getCript();
-    <br>
 }
+<br>
 -Descriptrografar(String hash)<br>{
     <br>
     String senhaDescriptografada = 'instancia'.getDescript();
-    <br>
 }
 
